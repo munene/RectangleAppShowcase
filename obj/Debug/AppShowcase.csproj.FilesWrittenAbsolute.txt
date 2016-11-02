@@ -1,0 +1,12 @@
+/Users/jeremymunene/Desktop/native-app/Abacus/AppShowcase/obj/Debug/MonoAndroid,Version=v4.0.3.AssemblyAttribute.cs
+/Users/jeremymunene/Desktop/native-app/Abacus/AppShowcase/obj/Debug/AppExtras.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/jeremymunene/Desktop/native-app/Abacus/AppShowcase/bin/Debug/AppShowcase.dll.mdb
+/Users/jeremymunene/Desktop/native-app/Abacus/AppShowcase/bin/Debug/AppShowcase.dll
+/Users/jeremymunene/Desktop/native-app/Abacus/AppShowcase/bin/Debug/AppShowcase.AppShowcase.apk
+/Users/jeremymunene/Desktop/native-app/Abacus/AppShowcase/obj/Debug/android/bin/AppShowcase.AppShowcase.apk
+/Users/jeremymunene/Desktop/native-app/Abacus/AppShowcase/obj/Debug/res/layout/showcase_content.xml
+/Users/jeremymunene/Desktop/native-app/Abacus/AppShowcase/obj/Debug/R.cs.flag
+/Users/jeremymunene/Desktop/native-app/Abacus/AppShowcase/bin/Debug/AppShowcase.AppShowcase-Signed.apk
+/Users/jeremymunene/Desktop/native-app/Abacus/AppShowcase/obj/Debug/uploadflags.txt
+/Users/jeremymunene/Desktop/native-app/Abacus/AppShowcase/obj/Debug/AppShowcase.dll
+/Users/jeremymunene/Desktop/native-app/Abacus/AppShowcase/obj/Debug/AppShowcase.dll.mdb

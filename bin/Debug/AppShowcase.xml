@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppShowcase</name>
+    </assembly>
+    <members>
+        <member name="M:AppExtras.AppShowcaseView.OnDraw(Android.Graphics.Canvas)">
+            <summary>
+            Interesting drawing stuff.
+            We draw a block of semi transparent colour to fill the whole screen then we draw of transparency
+            to create a circular "viewport" through to the underlying content
+            </summary>
+        </member>
+        <member name="M:AppExtras.AppShowcaseView.Show(System.Int64)">
+            <summary>
+            Reveal the AppShowcaseView after a delay. 
+            </summary>
+        </member>
+        <member name="M:AppExtras.AppShowcaseView.Show">
+            <summary>
+            Reveal the AppShowcaseView.
+            </summary>
+            <returns><c>true</c> if the view did show something, <c>false</c> otherwise.</returns>
+        </member>
+        <member name="T:AppExtras.AppShowcaseView.LayoutListener">
+            <summary>
+            Ensure that we redraw after activity finishes laying out
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,1 @@
+layout/showcase_content.xml;layout/showcase_content.xml
